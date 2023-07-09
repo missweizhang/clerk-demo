@@ -1,3 +1,11 @@
+# Clerk Demo
+
+## Get started with Next.js
+https://clerk.com/docs/nextjs/get-started-with-nextjs
+
+Empty Next.js project with Clerk Authentication's `<UserButton />` embedded in `Navbar`.
+Users must login to view page.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
